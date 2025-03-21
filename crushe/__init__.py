@@ -1,4 +1,4 @@
-#devggn
+#crushe
 
 import asyncio
 import logging
